@@ -1,0 +1,12 @@
+{
+    "name": "avcarret-bot",
+    "version": "1.0.0",
+    "description": "Bot para telegram en nodejs por Aventuras en Carretas. La finalidad de este bot es brindar la experiencia de los juegos de rol clásicos a los usuarios de Telegram",
+    "main": "bot.js",
+    "author": "Aventuras en Carreta",
+    "license": "ISC",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.30.0",
+        "telegraf": "^3.32.0"
+    }
+}
